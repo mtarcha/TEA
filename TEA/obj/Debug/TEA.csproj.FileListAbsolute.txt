@@ -1,0 +1,4 @@
+C:\Users\myrosya\Documents\Visual Studio 2012\Projects\TEA\TEA\bin\Debug\TEA.dll
+C:\Users\myrosya\Documents\Visual Studio 2012\Projects\TEA\TEA\bin\Debug\TEA.pdb
+C:\Users\myrosya\Documents\Visual Studio 2012\Projects\TEA\TEA\obj\Debug\TEA.dll
+C:\Users\myrosya\Documents\Visual Studio 2012\Projects\TEA\TEA\obj\Debug\TEA.pdb
